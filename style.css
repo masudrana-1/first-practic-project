@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+}
+
+.h1-tag {
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    font-size: 60px;
+}
+
+.top-part {
+    color: orange;
+}
+
+p {
+    text-align: left;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 30px;
+}
+
+.link-1 {
+    text-align: left;
+    font-size: 20px;
+    background-color: orange;
+    padding: 20px 30px;
+    background-image: -moz-linear-gradient(rgba(181, 68, 12, 0.747), rgb(166, 46, 25));
+    border-radius: 31px;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.header {
+    display: flex;
+}
+
+.text-part {
+    width: 50%;
+    padding: 5%;
+    margin-top: 120px;
+
+}
+
+.header-img {
+    width: 50%;
+    padding: 5%;
+}
+
+.header-img img {
+    width: 100%;
+}
+
+.middle {
+    display: flex;
+    background-image: url(eat-healthy/images/shapes/Frame58.jpg);
+    background-repeat: no-repeat;
+    padding-bottom: 10px;
+}
+
+.recipies {
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+}
+
+.lorem {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 0;
+}
+
+.millde-2nd {
+    text-align: center;
+}
+
+.bottom-top {
+    display: flex;
+    margin: 5%;
+}
+
+.tittle-1 {
+    width: 50%;
+    padding: 15px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+
+.tittle-1 img {
+    height: 300px;
+    width: 653px;
+    border-radius: 10px;
+}
+
+.tittle-2 {
+    width: 50%;
+    padding: 15px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+
+.tittle-2 img {
+    height: 300px;
+    width: 653px;
+    border-radius: 10px;
+}
+
+.lorem-2 {
+    font-size: 18px;
+}
+
+.bottom {
+    display: flex;
+    width: 100%;
+}
+
+.youtube {
+    width: 33%;
+    text-align: center;
+}
+
+.youtube h1 {
+    font-size: 40px;
+}
+
+.youtube p {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.insta {
+    width: 33%;
+    text-align: center;
+}
+
+.insta h1 {
+    font-size: 40px;
+}
+
+.insta p {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.dribbble {
+    width: 33%;
+    text-align: center;
+}
+
+.dribbble h1 {
+    font-size: 40px;
+}
+
+.dribbble p {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+
+.footer {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: black;
+}
+
+.footer-h {
+    color: grey;
+}
+
+.footer p {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(124, 194, 194);
+    font-size: 15px;
+}
